@@ -14,7 +14,7 @@ Download APK here -> [Click me](https://upload.app/download/trackify/io.cordova.
 
 ## [V1.0] - 2025-02-28
 
-### Inital releas
+### Inital release
 * Core features implemented
 * User Authentication
 * Personalize Account
